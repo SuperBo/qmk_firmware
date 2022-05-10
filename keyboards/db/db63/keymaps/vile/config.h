@@ -1,0 +1,5 @@
+#pragma once
+#define NO_ACTION_MACRO
+#define NO_USB_STARTUP_CHECK
+#define GRAVE_ESC_ALT_OVERRIDE
+#define BACKLIGHT_BREATHING
