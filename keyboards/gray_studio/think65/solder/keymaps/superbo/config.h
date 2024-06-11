@@ -17,6 +17,7 @@
 #pragma once
 
 // place overrides here
+#define UNICODE_SELECTED_MODES UNICODE_MODE_MACOS
 
 #define NO_ACTION_ONESHOT
 #define NO_ACTION_MACRO
